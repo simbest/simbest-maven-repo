@@ -1,4 +1,4 @@
-##在Github创建依赖包托管仓库simbest-maven-repo
+##使用Github作为第三方依赖包的托管仓库，实现公网的Maven私服Nexus
 
   1）在Github创建依赖包托管仓库simbest-maven-repo
   
