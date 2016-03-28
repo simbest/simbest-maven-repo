@@ -17,7 +17,7 @@
 		
         <repositories>
 			<repository>
-				<id>simbest-cores-mvn-repo</id>
+				<id>simbest-maven-repo</id>
 				<url>https://raw.github.com/simbest/simbest-maven-repo/master/repository/</url>
 				<snapshots>
 					<enabled>true</enabled>
