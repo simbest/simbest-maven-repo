@@ -11,6 +11,7 @@
 	mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc -Dversion=6 -Dfile=D:\ojdbc6.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	mvn install:install-file -DgroupId=com.simbest -DartifactId=PortalEncrypt -Dversion=1.0 -Dfile=E:\PortalEncrypt-1.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	mvn install:install-file -DgroupId=jacob -DartifactId=jacob -Dversion=1 -Dfile=E:\jacob-1.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=com.lowagie -DartifactId=iTextAsian -Dversion=1.0 -Dfile=E:\iTextAsian-1.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 
   4）将maven生成的文件提交并推送至Github
   
