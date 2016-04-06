@@ -27,8 +27,16 @@
 		
         <repositories>
 			<repository>
-				<id>simbest-maven-repo</id>
-				<url>https://raw.github.com/simbest/simbest-maven-repo/master/repository/</url>
+            <id>simbest-maven-repo1</id>
+            <url>https://raw.github.com/simbest/simbest-maven-repo/master/repository/</url>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+			</repository>
+			<repository>
+				<id>simbest-maven-repo2</id>
+				<url>https://github.com/simbest/simbest-maven-repo/tree/master/repository/</url>
 				<snapshots>
 					<enabled>true</enabled>
 					<updatePolicy>always</updatePolicy>
