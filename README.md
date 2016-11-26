@@ -17,6 +17,7 @@
 	mvn install:install-file -DgroupId=com.artofsolving -DartifactId=jodconverter -Dversion=2.2.1 -Dfile=E:\jodconverter-2.2.1.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	mvn install:install-file -DgroupId=com.artofsolving -DartifactId=jodconverter-core -Dversion=3.0-beta-4 -Dfile=E:\jodconverter-core-3.0-beta-4.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	mvn install:install-file -DgroupId=com.apache.phoenix -DartifactId=phoenix-4.3.0-clabs-phoenix-1.0.0-client -Dversion=4.3.0 -Dfile=E:\phoenix-4.3.0-clabs-phoenix-1.0.0-client-4.3.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true	
+	mvn install:install-file -DgroupId=io.longyuan -DartifactId=shiro-redis-session -Dversion=1.0.0 -Dfile=E:\shiro-redis-session-1.0.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true   
 
   4）将maven生成的文件提交并推送至Github
   
