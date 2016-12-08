@@ -19,6 +19,7 @@
 	mvn install:install-file -DgroupId=com.apache.phoenix -DartifactId=phoenix-4.3.0-clabs-phoenix-1.0.0-client -Dversion=4.3.0 -Dfile=E:\phoenix-4.3.0-clabs-phoenix-1.0.0-client-4.3.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true	
 	mvn install:install-file -DgroupId=io.longyuan -DartifactId=shiro-redis-session -Dversion=1.0.0 -Dfile=E:\shiro-redis-session-1.0.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true   
 	mvn install:install-file -DgroupId=dance -DartifactId=Distributed-Kit -Dversion=0.0.1 -Dfile=E:\Distributed-Kit-0.0.1.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true 
+	mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc14 -Dversion=10.2.0.2.0 -Dfile=E:\ojdbc14-10.2.0.2.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true 
 	
   4）将maven生成的文件提交并推送至Github
   
