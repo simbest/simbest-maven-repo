@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>bps.simbest</groupId>
+  <artifactId>bfs_console</artifactId>
+  <versioning>
+    <release>0.x</release>
+    <versions>
+      <version>0.x</version>
+    </versions>
+    <lastUpdated>20170506093842</lastUpdated>
+  </versioning>
+</metadata>
