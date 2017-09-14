@@ -20,6 +20,13 @@
 	mvn install:install-file -DgroupId=io.longyuan -DartifactId=shiro-redis-session -Dversion=1.0.0 -Dfile=E:\shiro-redis-session-1.0.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true   
 	mvn install:install-file -DgroupId=dance -DartifactId=Distributed-Kit -Dversion=0.0.1 -Dfile=E:\Distributed-Kit-0.0.1.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true 
 	mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc14 -Dversion=10.2.0.2.0 -Dfile=E:\ojdbc14-10.2.0.2.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true 
+	mvn install:install-file -DgroupId=stax -DartifactId=stax-api -Dversion=1.0.1 -Dfile=E:\stax-api-1.0.1.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=org.codehaus.woodstox -DartifactId=wstx-asl -Dversion=3.2.9 -Dfile=E:\wstx-asl-3.2.9.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=xalan -DartifactId=xalan -Dversion=2.5.0 -Dfile=E:\xalan-2.5.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=xerces -DartifactId=xercesImpl -Dversion=2.8.1 -Dfile=E:\xercesImpl-2.8.1.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=com.thoughtworks.xstream -DartifactId=xstream -Dversion=1.2.2 -Dfile=E:\xstream-1.2.2.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=ognl -DartifactId=ognl -Dversion=2.6.9 -Dfile=E:\ognl-2.6.9.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=org.eclipse.emf.commonj -DartifactId=sdo -Dversion=2.3.0-v200706262000 -Dfile=E:\sdo-2.3.0-v200706262000.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	
   4）将maven生成的文件提交并推送至Github
   
