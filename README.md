@@ -28,6 +28,7 @@
 	mvn install:install-file -DgroupId=com.thoughtworks.xstream -DartifactId=xstream -Dversion=1.2.2 -Dfile=E:\xstream-1.2.2.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	mvn install:install-file -DgroupId=ognl -DartifactId=ognl -Dversion=2.6.9 -Dfile=E:\ognl-2.6.9.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	mvn install:install-file -DgroupId=org.eclipse.emf.commonj -DartifactId=sdo -Dversion=2.3.0-v200706262000 -Dfile=E:\sdo-2.3.0-v200706262000.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
+	mvn install:install-file -DgroupId=org.csource -DartifactId=fastdfs-client-java -Dversion=1.27 -Dfile=E:\01_Work\01_DevSpace\Repository\org\csource\fastdfs-client-java\1.27-SNAPSHOT\fastdfs-client-java-1.27-SNAPSHOT.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=E:\01_Work\01_DevSpace\worksapce_github\simbest-maven-repo\repository -DcreateChecksum=true
 	
   4）将maven生成的文件提交并推送至Github
   
