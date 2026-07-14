@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.simbest.ai</groupId>
+    <artifactId>simbest-ai-cores</artifactId>
+    <version>1.0.0</version>
+  </parent>
+  <groupId>com.simbest.ai</groupId>
+  <artifactId>simbest-starter-parent</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+  <name>simbest-starter-parent</name>
+  <description>simbest-starter-parent</description>
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <modules>
+    <module>simbest-starter-core</module>
+    <module>simbest-starter-orm</module>
+    <module>simbest-starter-web</module>
+    <module>simbest-starter-cache</module>
+    <module>simbest-starter-auth</module>
+    <module>simbest-starter-log</module>
+    <module>simbest-starter-trans</module>
+    <module>simbest-starter-file</module>
+    <module>simbest-starter-excel</module>
+    <module>simbest-starter-config</module>
+    <module>simbest-starter-job</module>
+    <module>simbest-starter-id</module>
+    <module>simbest-starter-id-mybatis-plus</module>
+    <module>simbest-starter-datascope</module>
+    <module>simbest-starter-message</module>
+    <module>simbest-starter-tenant</module>
+    <module>simbest-starter-crypto</module>
+    <module>simbest-starter-websocket</module>
+    <module>simbest-starter-api-config</module>
+    <module>simbest-starter-social</module>
+    <module>simbest-starter-idempotent</module>
+  </modules>
+</project>
