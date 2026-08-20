@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.simbest.ai</groupId>
+    <artifactId>simbest-flow</artifactId>
+    <version>1.0.1</version>
+  </parent>
+  <groupId>com.simbest.ai</groupId>
+  <artifactId>simbest-flow-app-support</artifactId>
+  <version>1.0.1</version>
+  <name>simbest-flow-app-support</name>
+  <description>业务应用侧流程 outbox、投影、工作台与安全 BFF 支持</description>
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-flow-client</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-ai-orguser</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-starter-web</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-starter-auth</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-starter-orm</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-starter-id</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-starter-id-mybatis-plus</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-starter-datascope</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.simbest.ai</groupId>
+      <artifactId>simbest-starter-job</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-test</artifactId>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
