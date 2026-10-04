@@ -3,16 +3,16 @@
   <groupId>com.simbest.ai</groupId>
   <artifactId>simbest-ai-parent</artifactId>
   <versioning>
-    <lastUpdated>20260929080922</lastUpdated>
+    <lastUpdated>20261004031849</lastUpdated>
     <snapshot>
-      <timestamp>20260929.080922</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20261004.031849</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20260929.080922-1</value>
-        <updated>20260929080922</updated>
+        <value>1.0.0-20261004.031849-2</value>
+        <updated>20261004031849</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -3,21 +3,21 @@
   <groupId>com.simbest.ai</groupId>
   <artifactId>simbest-starter-core</artifactId>
   <versioning>
-    <lastUpdated>20260929080925</lastUpdated>
+    <lastUpdated>20261004031852</lastUpdated>
     <snapshot>
-      <timestamp>20260929.080925</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20261004.031852</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20260929.080925-1</value>
-        <updated>20260929080925</updated>
+        <value>1.0.0-20261004.031852-2</value>
+        <updated>20261004031852</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20260929.080925-1</value>
-        <updated>20260929080925</updated>
+        <value>1.0.0-20261004.031852-2</value>
+        <updated>20261004031852</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
