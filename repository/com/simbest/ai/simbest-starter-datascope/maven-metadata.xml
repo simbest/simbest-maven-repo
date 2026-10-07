@@ -4,7 +4,6 @@
   <artifactId>simbest-starter-datascope</artifactId>
   <versioning>
     <versions>
-      <version>1.0.0</version>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
     <lastUpdated>20261007131205</lastUpdated>
