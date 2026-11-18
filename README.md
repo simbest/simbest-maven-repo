@@ -54,4 +54,6 @@
 					<updatePolicy>always</updatePolicy>
 				</snapshots>
 			</repository>
-		</repositories>	
+		</repositories>
+
+mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc6 -Dversion=11.2.0.3 -Dfile=<本机缓存>/ojdbc6-11.2.0.3.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=<本仓克隆路径>/repository -DcreateChecksum=true
